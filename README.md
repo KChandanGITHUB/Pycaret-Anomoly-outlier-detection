@@ -1,4 +1,4 @@
-# Pycaret-Anomoly-outlier-detection
+# Pycaret-Anomoly-Outlier-detection
 
 ### Not all the codes and charts visible here, download the notebook and run the codes to view.
 This is an example of a notebook to demonstrate pycaret library for anomoly/outlier detection. In this example we will do some exploratory data analysis on the famous Iris dataset and then we build few models using pycaret for anomoly/outlier detection using supervised target feature.
