@@ -5,4 +5,5 @@ This is an example of a notebook to demonstrate pycaret library for anomoly/outl
 PyCaret is a Python open source machine learning library designed to make performing standard tasks in a machine learning project easy.
 It is a flexible and low-code library that enhances productivity thus saving time and effort.
 PyCaret is a simple and easy-to-use machine learning library that enables us to perform ML tasks within minutes.
-PyCaret library allows automating the machine learning steps such as data transformation, preparation, hyper-parameter tuning, and standard model comparisons.
+PyCaret library allows automating the machine learning steps such as data transformation, preparation, hyper-parameter tuning, and standard model comparisons.<br>
+To view the codes, click on Jupyter notebook saved above.
